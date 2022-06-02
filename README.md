@@ -3,7 +3,7 @@
 
 ### Control Flow Graph
 
-![lab2_SI drawio](https://user-images.githubusercontent.com/95771607/171727818-177003ef-2f16-4a9a-9f87-8db385250a87.png)
+![lab2_SI drawio (1)](https://user-images.githubusercontent.com/95771607/171737274-b537292d-2ca8-44f9-8305-825ae44a3f03.png)
 
 ### Цикломатска комплексност
 
